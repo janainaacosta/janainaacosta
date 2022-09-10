@@ -3,7 +3,6 @@
 
 - 😭 18 anos
 - 🌱 Estudando Bootstrap 5
-- 😄 Pronomes: ela/dela
 - ❤️ Front-end
 
 <div align="center">
