@@ -1,9 +1,5 @@
 
-<h1>Oii 👋 </h1>
-
-- 😭 18 anos
-- 🌱 Estudando Bootstrap 5
-- ❤️ Front-end
+<h1>Oi 👋 </h1>
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
